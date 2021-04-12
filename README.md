@@ -14,7 +14,7 @@
 
 👉🏽 Hey Guys !! My name <b>Hrithik Sagar</b> and i am <b>Student and a Developer</b>
 
-👉🏽 I'm currently pursuing my B.Tech | Computer Science Engineering SPECIZALIZED IN AI AND ML @ Sharda University
+👉🏽 I'm currently pursuing my B.Tech | Computer Science Engineering Specialized IN AI AND ML @ Sharda University
 
 👉🏽 Here's is some of my project that I have worked on, as repositories:
 <hr>
