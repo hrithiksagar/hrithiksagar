@@ -11,8 +11,11 @@
 
 <h1><b>About Me</b></h1>
 <img src="https://github.com/hrithiksagar/hrithiksagar/blob/main/Me.jpg" width="100px;">
+
 👉🏽 Hey Guys !! My name <b>Hrithik Sagar</b> and i am <b>Student and a Developer</b>
-👉🏽 I'm currently pursuing my B.Tech | Computer Science Engineering (CSE)
+
+👉🏽 I'm currently pursuing my B.Tech | Computer Science Engineering SPECIZALIZED IN AI AND ML @ Sharda University
+
 👉🏽 Here's is some of my project that I have worked on, as repositories:
 <hr>
 <h2><b>Hear are some of my work's 👇 </b></h2> 
