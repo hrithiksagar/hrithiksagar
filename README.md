@@ -10,14 +10,10 @@
 <br>
 
 <h1><b>About Me</b></h1>
-<img src="" width="200px;">
-
+<img src="https://github.com/hrithiksagar/hrithiksagar/blob/main/Me.jpg" width="100px;">
 👉🏽 Hey Guys !! My name <b>Hrithik Sagar</b> and i am <b>Student and a Developer</b>
-
 👉🏽 I'm currently pursuing my B.Tech | Computer Science Engineering (CSE)
-
 👉🏽 Here's is some of my project that I have worked on, as repositories:
-
 <hr>
 <h2><b>Hear are some of my work's 👇 </b></h2> 
 <ul>
