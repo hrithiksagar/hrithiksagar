@@ -42,7 +42,20 @@
   <img alt="sql" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
   <img alt="arduino" src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="100">
 </p>
+<br>
 
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=hrithiksagar&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiksagar&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hrithiksagar&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=hrithiksagar&theme=redical">
+</p> 
 
 <p align="center">
 <img alt="C" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
