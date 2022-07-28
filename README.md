@@ -1,32 +1,32 @@
 ### Bonjour, This is Hrithik Sagar. 👋
 
-- 🌱 I’m currently learning ML algorithms
-- 👯 I’m looking to collaborate on Machine Learning Projects for open source contribution.
-- 📫 How to reach me: You can reach me at hrithiksagar36@gmail.com
-# My social Media:
-<a href="https://www.instagram.com/hrithik.sagar/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25"/></a>
-<a href="https://www.linkedin.com/in/hrithik-sagar-539046175/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/r_hrithiksagar"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25"/></a>
+- I’m currently Working as ML Egineer
+- I'Ve completed my bachlors in B.Tech | Computer Science Engineering Specialized IN AI AND ML @ Sharda University
+- I’m looking to collaborate on Machine Learning Projects for open source contribution.
+- Reach me @ personal email: hrithiksagar36@gmail.com 
+professional email: HrithikSagar.Rachakonda@gmail.com
+
+<h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
+</div>
+<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/hrithik-sagar-539046175/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/hrithik-sagar-539046175/" height="60" width="60" /></a>
+<a href="https://www.instagram.com/hrithik.sagar/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60" width="60" /></a>
+</p>
 <br>
 
-<h1><b>About Me</b></h1>
-
-👉🏽 Hey Guys !! My name <b>Hrithik Sagar</b> and I am <b>Student and a Developer</b>
-
-👉🏽 I'm currently pursuing my B.Tech | Computer Science Engineering Specialized IN AI AND ML @ Sharda University
-
-👉🏽 Here's is some of my project that I have worked on, as repositories:
 <hr>
-<h2><b>Hear are some of my work's 👇 </b></h2> 
+<h2><b>Have a look at some of my works 👇 </b></h2> 
 <ul>
   <li>🔗https://github.com/hrithiksagar/24-7-personal-nurse</li>
   <li>🔗https://github.com/hrithiksagar/Skin_cancer_detection</li>
   <li>🔗https://github.com/hrithiksagar/Mask-Detection-using-python-openCV</li>
   <li>🔗https://github.com/hrithiksagar/Neumonia-prediction</li>
   <li>🔗https://github.com/hrithiksagar/face_recognization_openCV</li>
+  <li>🔗https://github.com/hrithiksagar/M1_Sudoku</li>
+  <li>🔗https://github.com/hrithiksagar/Diseases-Detection-jlcpcb</li>
   </ul>
 <hr>
-
 
 <h2><b>Languages and Tool's ⚙️. </b></h2> 
 
@@ -42,10 +42,7 @@
   <img alt="arduino" src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="100">
 </p>
 <br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=hrithiksagar&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiksagar&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+<p align = "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiksagar&show_icons=true&locale=en&layout=compact" alt="hrithiksagar" />  <img  src = "https://github-readme-stats.vercel.app/api?username=hrithiksagar&show_icons=true&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
@@ -55,6 +52,7 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=hrithiksagar&theme=redical">
 </p> 
+
 
 <p align="center">
 <img alt="C" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
