@@ -6,7 +6,7 @@ As an artificial intelligence engineer, I am passionate about developing cutting
 
 With experience working on various AI-powered projects, I have a solid ability to design and implement effective AI systems that can help solve complex problems and drive positive results. In addition, I am highly skilled in programming languages such as Python, TensorFlow, and PyTorch, and I have a strong understanding of deep learning concepts and techniques.
 
-In my current role, I am responsible for leading a team of AI engineers in developing advanced AI systems designed to improve the accuracy and efficiency of business operations. I am constantly seeking new ways to push the boundaries of what is possible with AI, and I am always looking for opportunities to learn and grow as an engineer.
+In my current role, I lead a team of AI engineers in developing advanced AI systems designed to improve the accuracy and efficiency of business operations. I am constantly seeking new ways to push the boundaries of what is possible with AI, and I am always looking for opportunities to learn and grow as an engineer.
 
 Whether it's developing AI-powered chatbots, automating complex processes, or finding new ways to apply machine learning to real-world problems, I am always looking for ways to use my skills and expertise to help drive the future of AI.
 
