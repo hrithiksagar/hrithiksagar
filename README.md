@@ -1,5 +1,10 @@
 ### Bonjour, This is Hrithik Sagar. 👋
-- Current Status:- Machine Learning Engineer - Research & Development - [March 2022 - Present]
+- Current Status:-
+- PGSSP - IIIT Hyderabad
+  - Courses:
+      - Deep Learning : Theory and Practice
+      - Digital Image Processing  
+- Machine Learning Engineer - Research & Development - [March 2022 - Present]
 - Skills:- Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
 
 As an artificial intelligence engineer, I am passionate about developing cutting-edge technology that can help drive the future of AI. With a background in computer science and a deep understanding of machine learning algorithms and techniques, I am dedicated to creating innovative solutions to help businesses and organizations improve their operations and achieve their goals.
