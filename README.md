@@ -1,5 +1,6 @@
 ### Bonjour, This is Hrithik Sagar. 👋
-- Current Status:-
+
+# Current Status:-
 - PGSSP - IIIT Hyderabad
   - Courses:
       - Deep Learning : Theory and Practice
