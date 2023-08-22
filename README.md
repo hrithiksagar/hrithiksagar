@@ -8,14 +8,6 @@
 - Machine Learning Engineer - Research & Development - [March 2022 - Present]
 - Skills:- Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
 
-As an artificial intelligence engineer, I am passionate about developing cutting-edge technology that can help drive the future of AI. With a background in computer science and a deep understanding of machine learning algorithms and techniques, I am dedicated to creating innovative solutions to help businesses and organizations improve their operations and achieve their goals.
-
-With experience working on various AI-powered projects, I have a solid ability to design and implement effective AI systems that can help solve complex problems and drive positive results. In addition, I am highly skilled in programming languages such as Python, TensorFlow, and PyTorch, and I have a strong understanding of deep learning concepts and techniques.
-
-In my current role, I lead a team of AI engineers in developing advanced AI systems designed to improve the accuracy and efficiency of business operations. I am constantly seeking new ways to push the boundaries of what is possible with AI, and I am always looking for opportunities to learn and grow as an engineer.
-
-Whether it's developing AI-powered chatbots, automating complex processes, or finding new ways to apply machine learning to real-world problems, I am always looking for ways to use my skills and expertise to help drive the future of AI.
-
 <h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
 </div>
 <br>
