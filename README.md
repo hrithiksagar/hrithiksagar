@@ -1,10 +1,15 @@
 # Bonjour, This is Hrithik Sagar. 👋
 
 ## Current Status:-
-- PGSSP - IIIT Hyderabad
-  - Courses:
+- IIIT Hyderabad
+  - PGSSP:
+    - Spring 2024:-
+      - Robotics: Planning and Navigation and
+      - Responsible and Safe AI systems 
+    - Fall 2023:- 
       - Deep Learning : Theory and Practice
-      - Digital Image Processing  
+      - Digital Image Processing
+     
 - Machine Learning Engineer - Research & Development - [March 2022 - Present]
 - Skills:- Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
 
