@@ -3,7 +3,7 @@
 ## Current Status:-
 - IIIT Hyderabad
   - Full time RA
-    - Bhashini - Circulars project - https://bhashini.gov.in/  
+    - Bhashini - Circulars project - https://bhashini.gov.in/   https://bhashini.gov.in/services
   - PGSSP:
     - Spring 2024:-
       - Robotics: Planning and Navigation and
