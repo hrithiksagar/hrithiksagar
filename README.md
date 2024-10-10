@@ -27,7 +27,7 @@
 <br>
 
 <hr>
-<h2><b>Have a look at some of my works 👇 </b></h2> 
+<!-- <h2><b>Have a look at some of my works 👇 </b></h2> 
 <ul>
   <li>🔗https://github.com/hrithiksagar/24-7-personal-nurse</li>
   <li>🔗https://github.com/hrithiksagar/Skin_cancer_detection</li>
@@ -37,7 +37,7 @@
   <li>🔗https://github.com/hrithiksagar/M1_Sudoku</li>
   <li>🔗https://github.com/hrithiksagar/Diseases-Detection-jlcpcb</li>
   </ul>
-<hr>
+<hr> -->
 
 <h2><b>Languages and Tool's ⚙️. </b></h2> 
 
@@ -48,7 +48,6 @@
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img alt="android" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="100">
   <img alt="sql" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
   <img alt="arduino" src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="100">
 </p>
@@ -72,10 +71,7 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" width="100"/>
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" width="100"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" width="100"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" width="100"/>
 <img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white" width="100"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" width="100"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" width="100"/>
