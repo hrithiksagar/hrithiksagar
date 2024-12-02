@@ -48,7 +48,6 @@
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img alt="sql" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
   <img alt="arduino" src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="100">
 </p>
 <br>
