@@ -1,9 +1,12 @@
 # Bonjour, This is Hrithik Sagar. 👋
 
 ## Current Status:-
+- Research Associate
+  - BharatGen [Dec 2024-Present]
+ 
 - IIIT Hyderabad
-  - Full time RA
-    - Bhashini - Circulars Dataset and LLMs/MMLMs Based Project
+  - Full time RA [May 2024-Dec 2024]
+    - Bhashini Project
       - https://bhashini.gov.in/
       - https://bhashini.gov.in/services
   - PGSSP:
