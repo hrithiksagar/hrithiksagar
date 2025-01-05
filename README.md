@@ -3,6 +3,7 @@
 ## Current Status:-
 - Research Associate
   - BharatGen [Dec 2024-Present]
+  - Contact at Hrithik.Sagar@tihiitb.org
  
 - IIIT Hyderabad
   - Full time RA [May 2024-Dec 2024]
