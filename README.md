@@ -5,7 +5,7 @@ for OpenAI GPT OSS Codebase for enabling "vLLM Online Serve for thier Models" on
 
 Currently, most of my work is being happening via my Other GitHub account [@hrithiksagar-tih](https://github.com/hrithiksagar-tih)
 
-## My Journey:-
+## My Journey @ IIIT Hyderabad :-
 - MS in Computer Science and Engineering by Research
   - [IIIT Hyderabad](https://www.iiit.ac.in)
   - 2025 - Present
