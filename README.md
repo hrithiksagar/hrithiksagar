@@ -9,7 +9,8 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
 - MS in Computer Science and Engineering by Research
   - [IIIT Hyderabad](https://www.iiit.ac.in)
   - 2025 - Present
-  - Contact: Hrithik.Rachakonda@research.iiit.ac.in 
+  - Contact: Hrithik.Rachakonda@research.iiit.ac.in
+  - Advisor: [@ravika](https://github.com/ravika)
 - Research Associate
   - BharatGen [Dec 2024-Present]
   - Contact at Hrithik.Sagar@tihiitb.org
