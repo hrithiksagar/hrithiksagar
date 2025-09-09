@@ -1,12 +1,13 @@
 # Bonjour, This is Hrithik Sagar. 👋
 I am an Postgraduate computer science student at
-[IIIT Hyderabad](https://www.iiit.ac.in). Course: MS in Computer Science
-and Engineering by Research. 
-I have contributed to issues starting with my first PR
-for OpenAI GPT OSS Codebase for vLLM Online Serve repository
-Models (LPM) team on their [OpenAI GPT OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm) since May 2025.
+[IIIT Hyderabad](https://www.iiit.ac.in). Course: MS in Computer Science and Engineering by Research. I have contributed to issues starting with my first PR
+for OpenAI GPT OSS Codebase for vLLM Online Serve repository Models (LPM) team on their [OpenAI GPT OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm) since May 2025.
 
-## Current Status:-
+## My Journey:-
+- MS in Computer Science and Engineering by Research
+  - [IIIT Hyderabad](https://www.iiit.ac.in)
+  - 2025 - Present
+  - Contact: Hrithik.Rachakonda@research.iiit.ac.in 
 - Research Associate
   - BharatGen [Dec 2024-Present]
   - Contact at Hrithik.Sagar@tihiitb.org
