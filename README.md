@@ -29,7 +29,7 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
       - Digital Image Processing
      
 - Machine Learning Engineer - Research & Development - [March 2022 - Present]
-- Skills:- Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
+- Skills:- LLM, VLM, vLLM, Fine-Tuning, Streamlit, Gradio, React, SQL, DuckDB, HuggingFace, Ray, Multi-Node GPU processing, Slurm, Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
 
 <h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
 </div>
