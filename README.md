@@ -3,6 +3,8 @@ I am an Postgraduate computer science student at
 [IIIT Hyderabad](https://www.iiit.ac.in). Course: MS in Computer Science and Engineering by Research. I have contributed to issues starting with my first PR
 for OpenAI GPT OSS Codebase for vLLM Online Serve repository Models (LPM) team on their [OpenAI GPT OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm) since May 2025.
 
+Currently, most of my work is being happening via my Other GitHub account [@hrithiksagar-tih](https://github.com/hrithiksagar-tih)
+
 ## My Journey:-
 - MS in Computer Science and Engineering by Research
   - [IIIT Hyderabad](https://www.iiit.ac.in)
