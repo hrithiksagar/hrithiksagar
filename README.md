@@ -40,6 +40,11 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
 
 Added support for Offline Serve for vLLM
 
+
+#### [DOGR Dataset](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
+
+> ([1 merged pull requests](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2))
+> Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
 ---
 <h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
 </div>
