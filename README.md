@@ -36,19 +36,19 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
 #### [OpenAI GPT OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm)
 
 > _18.3k stars, 8.9M dl/month_
-> ([1 merged pull requests](https://github.com/openai/gpt-oss/pull/150))
-
-Added support for Offline Serve for vLLM
+- ([1 merged pull requests](https://github.com/openai/gpt-oss/pull/150))
+- Added support for Offline Serve for vLLM
 
 
 #### [DOGR Dataset](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
-
-> ([1 merged pull requests](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2))
-> Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
+> > _13.1k+ stars, 8.9M dl/month_
+- ([1 merged pull requests](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2))
+- Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
 
 #### [QWEN 3 VL 235B]()
-> [1 merged pull request](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6)
-> [Pull Request Link](https://github.com/QwenLM/Qwen3-VL/pull/1484)
+> _13.1k+ stars_
+- [1 merged pull request](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6)
+- [Pull Request Link](https://github.com/QwenLM/Qwen3-VL/pull/1484)
 
 - Added correct libraries required for running online inference via vLLM. 
 ---
