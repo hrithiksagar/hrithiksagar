@@ -45,6 +45,12 @@ Added support for Offline Serve for vLLM
 
 > ([1 merged pull requests](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2))
 > Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
+
+#### [QWEN 3 VL 235B]()
+> [1 merged pull request](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6)
+> [Pull Request Link](https://github.com/QwenLM/Qwen3-VL/pull/1484)
+
+- Added correct libraries required for running online inference via vLLM. 
 ---
 <h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
 </div>
