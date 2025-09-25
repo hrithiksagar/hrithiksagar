@@ -41,7 +41,7 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
 
 
 #### [DOGR Dataset](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
-> > _13.1k+ stars, 8.9M dl/month_
+> _13.1k+ stars, 8.9M dl/month_
 - [1 merged pull requests](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
 - Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
 
