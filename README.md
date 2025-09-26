@@ -147,29 +147,7 @@ Since then, I’ve been actively contributing to **top-tier AI repositories** un
 <br>
 
 <hr>
-<!-- <h2><b>Have a look at some of my works 👇 </b></h2> 
-<ul>
-  <li>🔗https://github.com/hrithiksagar/24-7-personal-nurse</li>
-  <li>🔗https://github.com/hrithiksagar/Skin_cancer_detection</li>
-  <li>🔗https://github.com/hrithiksagar/Mask-Detection-using-python-openCV</li>
-  <li>🔗https://github.com/hrithiksagar/Neumonia-prediction</li>
-  <li>🔗https://github.com/hrithiksagar/face_recognization_openCV</li>
-  <li>🔗https://github.com/hrithiksagar/M1_Sudoku</li>
-  <li>🔗https://github.com/hrithiksagar/Diseases-Detection-jlcpcb</li>
-  </ul>
-<hr> -->
 
-<h2><b>Languages and Tool's ⚙️. </b></h2> 
-
-<!-- Gifs found on GIPHY made by @devrock -->
-<p align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img alt="arduino" src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="100">
-</p>
 <br>
 <p align = "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiksagar&show_icons=true&locale=en&layout=compact" alt="hrithiksagar" />  <img  src = "https://github-readme-stats.vercel.app/api?username=hrithiksagar&show_icons=true&theme=radical&line_height=27">
 </p>
@@ -177,21 +155,3 @@ Since then, I’ve been actively contributing to **top-tier AI repositories** un
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hrithiksagar&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=hrithiksagar&theme=redical">
-</p> 
-
-
-<p align="center">
-<img alt="C" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img alt="CPP" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</p>
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" width="100"/>
-<img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white" width="100"/>
-<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" width="100"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" width="100"/>
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width="100"/>
