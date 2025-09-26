@@ -46,9 +46,12 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
 - Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
 
 #### [QWEN 3 VL 235B]()
-> _13.1k+ stars_
-- [1 merged pull request](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6)
-- [Pull Request Link](https://github.com/QwenLM/Qwen3-VL/pull/1484)
+> _13.2k+ stars_
+- [2 merged pull request](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6) [1. Online Inference solved](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6) [2. Offline inference solved](https://github.com/QwenLM/Qwen3-VL?tab=readme-ov-file#offline-inference)
+  1. [Pull Request: #1484 ](https://github.com/QwenLM/Qwen3-VL/pull/1484)
+    1.1. This is the correction of the libraries required to run Online Serve via vLLM      
+  3. [Pull Request: #1507 ](https://github.com/QwenLM/Qwen3-VL/pull/1507)
+    2.1. This is the code based solution for the offline serve via vLLM issue on the original code.      
 
 - Added correct libraries required for running online inference via vLLM. 
 ---
