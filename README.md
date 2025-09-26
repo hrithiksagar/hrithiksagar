@@ -31,28 +31,55 @@ Currently, most of my work is being happening via my Other GitHub account [@hrit
 - Machine Learning Engineer - Research & Development - [March 2022 - Present]
 - Skills:- LLM, VLM, vLLM, Fine-Tuning, Streamlit, Gradio, React, SQL, DuckDB, HuggingFace, Ray, Multi-Node GPU processing, Slurm, Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
 
-## Projects That I Have Contributed To
+## 🚀 Projects I’ve Contributed To  
 
-#### [OpenAI GPT OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm)
+> 💡 _Total: **4+ Merged PRs** across top-tier AI repositories (OpenAI, Qwen, Hugging Face)_  
 
-> _18.3k stars, 8.9M dl/month_
-- ([1 merged pull requests](https://github.com/openai/gpt-oss/pull/150))
-- Added support for Offline Serve for vLLM
+---
 
+### 🧠 [OpenAI GPT-OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm)  
+![Stars](https://img.shields.io/github/stars/openai/gpt-oss?style=flat-square&logo=github&color=yellow)  
+![Downloads](https://img.shields.io/badge/Downloads-8.9M%2Fmonth-blue?style=flat-square)  
+![PRs](https://img.shields.io/badge/Merged%20PRs-1-brightgreen?style=flat-square)  
 
-#### [DOGR Dataset](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
-- [1 merged pull requests](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
-- Refer to this [DOGR_Dataset Link](https://huggingface.co/datasets/yinanzhou1/doge_data)
+> Contributed to the **Offline Serve for vLLM** feature  
+🔗 [Merged PR #150](https://github.com/openai/gpt-oss/pull/150)
 
-#### [QWEN 3 VL 235B]()
-> _13.2k+ stars_
-- [2 merged pull request](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6) [1. Online Inference solved](https://github.com/QwenLM/Qwen3-VL/commit/4d68f23a3ab603a7d3b721a05f351671a2663ca6) [2. Offline inference solved](https://github.com/QwenLM/Qwen3-VL?tab=readme-ov-file#offline-inference)
-  1. [Pull Request: #1484 ](https://github.com/QwenLM/Qwen3-VL/pull/1484)
-    1.1. This is the correction of the libraries required to run Online Serve via vLLM      
-  3. [Pull Request: #1507 ](https://github.com/QwenLM/Qwen3-VL/pull/1507)
-    2.1. This is the code based solution for the offline serve via vLLM issue on the original code.      
+---
 
-- Added correct libraries required for running online inference via vLLM. 
+### 🧬 [Qwen 3 VL 235B](https://github.com/QwenLM/Qwen3-VL)  
+![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=flat-square&color=orange)  
+![PRs](https://img.shields.io/badge/Merged%20PRs-2-brightgreen?style=flat-square)
+
+> Improved **Online & Offline Inference** with vLLM  
+- 🛠️ [PR #1484](https://github.com/QwenLM/Qwen3-VL/pull/1484): Fixed libraries for **Online Serve**  
+- ⚡ [PR #1507](https://github.com/QwenLM/Qwen3-VL/pull/1507): Solved **Offline Serve** issues  
+
+---
+
+### 🧾 [DOGR Dataset (Hugging Face)](https://huggingface.co/datasets/yinanzhou1/doge_data)  
+![HF](https://img.shields.io/badge/HuggingFace-Dataset-orange?style=flat-square&logo=huggingface)  
+![PRs](https://img.shields.io/badge/Merged%20PRs-1-brightgreen?style=flat-square)
+
+> Enhanced dataset structure for **Document Object Grounding & Reasoning (DOGR)**  
+🔗 [Merged PR / Discussion](https://huggingface.co/datasets/yinanzhou1/doge_data/discussions/2)
+
+---
+
+### 📊 Summary  
+| Repository | ⭐ Stars | 📦 Downloads | ✅ PRs Merged | 🚀 Contribution |
+|-------------|----------|--------------|---------------|-----------------|
+| [OpenAI GPT-OSS](https://github.com/openai/gpt-oss) | 18.3k | 8.9M/mo | 1 | Offline Serve for vLLM |
+| [Qwen 3 VL 235B](https://github.com/QwenLM/Qwen3-VL) | 13.2k | – | 2 | Online/Offline Inference |
+| [DOGR Dataset](https://huggingface.co/datasets/yinanzhou1/doge_data) | – | – | 1 | Dataset Fixes |
+
+---
+
+### 🧭 Total Contributions:  
+![PRs](https://img.shields.io/badge/Total%20Merged%20PRs-4-brightgreen?style=for-the-badge)  
+![Repos](https://img.shields.io/badge/Top%20AI%20Repos-3-blueviolet?style=for-the-badge)  
+![Impact](https://img.shields.io/badge/Impact-High-success?style=for-the-badge)
+
 ---
 <h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
 </div>
