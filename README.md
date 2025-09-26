@@ -1,35 +1,91 @@
-# Bonjour, This is Hrithik Sagar. 👋
-I am an Postgraduate computer science student at
-[IIIT Hyderabad](https://www.iiit.ac.in). Course: MS in Computer Science and Engineering by Research. I have contributed to issues starting with my first PR
-for OpenAI GPT OSS Codebase for enabling "vLLM Online Serve for thier Models" on their [OpenAI GPT OSS](https://github.com/openai/gpt-oss?tab=readme-ov-file#vllm) repository since May 2025.
+<!-- 🌟 VISUAL INTRO -->
+<div align="center">
 
-Currently, most of my work is being happening via my Other GitHub account [@hrithiksagar-tih](https://github.com/hrithiksagar-tih)
+# 👋 Bonjour! I'm <span style="color:#2F80ED;">Hrithik Sagar</span>  
 
-## My Journey @ IIIT Hyderabad :-
-- MS in Computer Science and Engineering by Research
-  - [IIIT Hyderabad](https://www.iiit.ac.in)
-  - 2025 - Present
-  - Contact: Hrithik.Rachakonda@research.iiit.ac.in
-  - Advisor: [@ravika](https://github.com/ravika), [Prof. Ravi Kiran](https://scholar.google.co.in/citations?hl=en&user=oLJTcXIAAAAJ)
-- Research Associate
-  - BharatGen [Dec 2024-Present]
-  - Contact at Hrithik.Sagar@tihiitb.org
- 
-- IIIT Hyderabad
-  - Full time RA [May 2024-Dec 2024]
-    - Bhashini Project
-      - https://bhashini.gov.in/
-      - https://bhashini.gov.in/services
-  - PGSSP:
-    - Spring 2024:-
-      - Robotics: Planning and Navigation and
-      - Responsible and Safe AI systems 
-    - Fall 2023:- 
-      - Deep Learning : Theory and Practice
-      - Digital Image Processing
-     
-- Machine Learning Engineer - Research & Development - [March 2022 - Present]
-- Skills:- LLM, VLM, vLLM, Fine-Tuning, Streamlit, Gradio, React, SQL, DuckDB, HuggingFace, Ray, Multi-Node GPU processing, Slurm, Python, OpenCV, TensorFlow, VSCode, Git, Digital Art (Procreate), 3D Designing (Shapr3D), Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic, NLP. 
+🎓 <b>Postgraduate Researcher @ IIIT Hyderabad</b>  
+🧠 <b>LLMs · VLMs · Multimodal AI · Indic NLP</b>  
+🚀 Building <b>Scalable AI Systems</b> for <i>Synthetic QA</i>, <i>Visual Reasoning</i>, and <i>Document Understanding</i>  
+💻 Contributor to  
+<a href="https://github.com/openai/gpt-oss">OpenAI GPT-OSS</a> •  
+<a href="https://github.com/QwenLM/Qwen3-VL">Qwen 3 VL 235B</a> •  
+<a href="https://huggingface.co/datasets/yinanzhou1/doge_data">Hugging Face Datasets</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hrithiksagar&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Open Source Love](https://img.shields.io/badge/Open--Source-Love-ff69b4?style=flat-square)
+![Research Focus](https://img.shields.io/badge/Focus-AI%20Research%20%26%20Infrastructure-success?style=flat-square)
+
+</div>
+
+---
+
+## 🧠 Quick Intro  
+✨ I began my open-source journey with a **merged PR** to **OpenAI’s GPT-OSS** in **May 2025**, enabling **vLLM Online Serve for OpenAI models**.  
+
+Since then, I’ve been actively contributing to **top-tier AI repositories** under [@hrithiksagar-tih](https://github.com/hrithiksagar-tih), focusing on **LLM/VLM Infrastructure**, **Multimodal AI**, and **Synthetic QA Generation**.  
+
+> _Researcher · Engineer · Builder of Scalable AI Systems_
+
+---
+
+## 🎓 My Journey @ IIIT Hyderabad  
+
+🎓 **MS by Research — Computer Science & Engineering**  
+- 🏛️ [IIIT Hyderabad](https://www.iiit.ac.in)  
+- 📅 *2025 – Present*  
+- 📧 Hrithik.Rachakonda@research.iiit.ac.in  
+- 👨‍🏫 Advisor: [Prof. Ravi Kiran](https://scholar.google.co.in/citations?hl=en&user=oLJTcXIAAAAJ) [(@ravika)](https://github.com/ravika)  
+
+---
+
+### 🔬 Research Associate — [BharatGen](https://bharatgen.in)  
+- 📅 *Dec 2024 – Present*  
+- 📧 Hrithik.Sagar@tihiitb.org  
+- 🧭 Focus: **Synthetic QA Generation**, **Indic Multilingual AI**, **Model Routing**, **Visual QA**  
+- ⚙️ Building **LLM/VLM Research Infrastructure**  
+
+---
+
+### 👨‍💻 Research Associate — IIIT Hyderabad  
+- 📅 *May 2024 – Dec 2024*  
+- 🧠 **Bhashini Project** ([bhashini.gov.in](https://bhashini.gov.in))  
+- 🌐 Work: *Indic NLP*, *Responsible AI*, *Cross-lingual QA*  
+
+---
+
+### 📘 PGSSP Coursework @ IIIT Hyderabad  
+
+**Spring 2024**  
+- 🤖 Robotics: Planning and Navigation  
+- ⚖️ Responsible and Safe AI Systems  
+
+**Fall 2023**  
+- 🧠 Deep Learning: Theory and Practice  
+- 🖼️ Digital Image Processing  
+
+---
+
+## 🧩 Professional Experience  
+
+💼 **Machine Learning Engineer (R&D)** — *March 2022 – Present*  
+> Research and development in **LLM**, **VLM**, **vLLM**, and **AI Infrastructure**  
+> Specializing in **Multi-GPU**, **Distributed Systems**, and **Data Pipelines**
+
+---
+
+## 🧰 Tech Stack & Skills  
+
+| Category | Tools |
+|----------|-------|
+| 💡 **AI/ML** | LLMs, VLMs, NLP, Deep Learning, Fuzzy Logic |
+| ⚙️ **Frameworks** | PyTorch, TensorFlow, HuggingFace, vLLM, Ray |
+| 🧠 **Ops & Infra** | Multi-Node GPU, Slurm, Ray, DuckDB, SQL |
+| 🧩 **Development** | Python, VSCode, Git, Streamlit, Gradio, React |
+| 🎨 **Creative** | Procreate (Digital Art), Shapr3D (3D Design) |
+
+---
 
 ## 🚀 Projects I’ve Contributed To  
 
