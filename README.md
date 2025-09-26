@@ -141,7 +141,7 @@ Since then, I’ve been actively contributing to **top-tier AI repositories** un
 </div>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/hrithik-sagar-539046175/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/hrithik-sagar-539046175/" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/hrithiksagar/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/hrithik-sagar-539046175/" height="60" width="60" /></a>
 <a href="https://www.instagram.com/hrithik.sagar/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60" width="60" /></a>
 </p>
 <br>
